@@ -1,0 +1,2 @@
+# PyLQGDym
+LQG dynamics visualization
